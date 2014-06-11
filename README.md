@@ -1,3 +1,3 @@
 # Test GPG
 
-For glory!
+For fun! For glory!
